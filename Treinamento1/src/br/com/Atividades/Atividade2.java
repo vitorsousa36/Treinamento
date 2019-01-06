@@ -33,9 +33,7 @@ public class Atividade2 {
 //            mult++;
 //
 //		}
-		
-		
-	  
+
 	}
 
 }
